@@ -1,0 +1,3211 @@
+{
+  "t5_1": [
+    {
+      "name": "Aceh",
+      "gejalaValue": 4.6,
+      "gejalaCiLow": 3.3,
+      "gejalaCiHigh": 6.2,
+      "diagnosisValue": 4.0,
+      "diagnosisCiLow": 2.9,
+      "diagnosisCiHigh": 5.7,
+      "nWeighted": 5756
+    },
+    {
+      "name": "Sumatera Utara",
+      "gejalaValue": 1.6,
+      "gejalaCiLow": 1.1,
+      "gejalaCiHigh": 2.3,
+      "diagnosisValue": 1.1,
+      "diagnosisCiLow": 0.7,
+      "diagnosisCiHigh": 1.7,
+      "nWeighted": 15884
+    },
+    {
+      "name": "Sumatera Barat",
+      "gejalaValue": 4.8,
+      "gejalaCiLow": 3.4,
+      "gejalaCiHigh": 6.7,
+      "diagnosisValue": 4.5,
+      "diagnosisCiLow": 3.1,
+      "diagnosisCiHigh": 6.4,
+      "nWeighted": 6042
+    },
+    {
+      "name": "Riau",
+      "gejalaValue": 2.6,
+      "gejalaCiLow": 1.5,
+      "gejalaCiHigh": 4.4,
+      "diagnosisValue": 1.6,
+      "diagnosisCiLow": 0.8,
+      "diagnosisCiHigh": 3.2,
+      "nWeighted": 7051
+    },
+    {
+      "name": "Jambi",
+      "gejalaValue": 2.8,
+      "gejalaCiLow": 1.4,
+      "gejalaCiHigh": 5.5,
+      "diagnosisValue": 2.8,
+      "diagnosisCiLow": 1.4,
+      "diagnosisCiHigh": 5.5,
+      "nWeighted": 4051
+    },
+    {
+      "name": "Sumatera Selatan",
+      "gejalaValue": 3.0,
+      "gejalaCiLow": 2.0,
+      "gejalaCiHigh": 4.5,
+      "diagnosisValue": 2.1,
+      "diagnosisCiLow": 1.4,
+      "diagnosisCiHigh": 3.2,
+      "nWeighted": 9402
+    },
+    {
+      "name": "Bengkulu",
+      "gejalaValue": 2.8,
+      "gejalaCiLow": 1.6,
+      "gejalaCiHigh": 4.6,
+      "diagnosisValue": 2.1,
+      "diagnosisCiLow": 1.2,
+      "diagnosisCiHigh": 3.9,
+      "nWeighted": 2323
+    },
+    {
+      "name": "Lampung",
+      "gejalaValue": 2.8,
+      "gejalaCiLow": 1.6,
+      "gejalaCiHigh": 4.8,
+      "diagnosisValue": 2.0,
+      "diagnosisCiLow": 1.0,
+      "diagnosisCiHigh": 4.2,
+      "nWeighted": 10424
+    },
+    {
+      "name": "Kepulauan Bangka Belitung",
+      "gejalaValue": 3.1,
+      "gejalaCiLow": 1.8,
+      "gejalaCiHigh": 5.3,
+      "diagnosisValue": 2.2,
+      "diagnosisCiLow": 1.2,
+      "diagnosisCiHigh": 4.1,
+      "nWeighted": 1707
+    },
+    {
+      "name": "Kepulauan Riau",
+      "gejalaValue": 2.6,
+      "gejalaCiLow": 0.6,
+      "gejalaCiHigh": 10.5,
+      "diagnosisValue": 2.6,
+      "diagnosisCiLow": 0.6,
+      "diagnosisCiHigh": 10.5,
+      "nWeighted": 2514
+    },
+    {
+      "name": "DKI Jakarta",
+      "gejalaValue": 4.9,
+      "gejalaCiLow": 2.8,
+      "gejalaCiHigh": 8.3,
+      "diagnosisValue": 4.9,
+      "diagnosisCiLow": 2.8,
+      "diagnosisCiHigh": 8.3,
+      "nWeighted": 12317
+    },
+    {
+      "name": "Jawa Barat",
+      "gejalaValue": 3.8,
+      "gejalaCiLow": 2.9,
+      "gejalaCiHigh": 4.9,
+      "diagnosisValue": 2.4,
+      "diagnosisCiLow": 1.8,
+      "diagnosisCiHigh": 3.4,
+      "nWeighted": 58510
+    },
+    {
+      "name": "Jawa Tengah",
+      "gejalaValue": 6.5,
+      "gejalaCiLow": 5.4,
+      "gejalaCiHigh": 7.9,
+      "diagnosisValue": 5.1,
+      "diagnosisCiLow": 4.1,
+      "diagnosisCiHigh": 6.4,
+      "nWeighted": 44456
+    },
+    {
+      "name": "DI Yogyakarta",
+      "gejalaValue": 9.3,
+      "gejalaCiLow": 6.1,
+      "gejalaCiHigh": 14.2,
+      "diagnosisValue": 7.8,
+      "diagnosisCiLow": 4.9,
+      "diagnosisCiHigh": 12.4,
+      "nWeighted": 4957
+    },
+    {
+      "name": "Jawa Timur",
+      "gejalaValue": 4.2,
+      "gejalaCiLow": 3.3,
+      "gejalaCiHigh": 5.3,
+      "diagnosisValue": 3.0,
+      "diagnosisCiLow": 2.3,
+      "diagnosisCiHigh": 4.0,
+      "nWeighted": 50588
+    },
+    {
+      "name": "Banten",
+      "gejalaValue": 2.0,
+      "gejalaCiLow": 1.0,
+      "gejalaCiHigh": 4.3,
+      "diagnosisValue": 1.1,
+      "diagnosisCiLow": 0.4,
+      "diagnosisCiHigh": 2.9,
+      "nWeighted": 13332
+    },
+    {
+      "name": "Bali",
+      "gejalaValue": 1.4,
+      "gejalaCiLow": 0.7,
+      "gejalaCiHigh": 2.9,
+      "diagnosisValue": 0.9,
+      "diagnosisCiLow": 0.4,
+      "diagnosisCiHigh": 2.0,
+      "nWeighted": 5149
+    },
+    {
+      "name": "Nusa Tenggara Barat",
+      "gejalaValue": 3.7,
+      "gejalaCiLow": 2.0,
+      "gejalaCiHigh": 6.8,
+      "diagnosisValue": 3.0,
+      "diagnosisCiLow": 1.5,
+      "diagnosisCiHigh": 6.1,
+      "nWeighted": 6849
+    },
+    {
+      "name": "Nusa Tenggara Timur",
+      "gejalaValue": 5.5,
+      "gejalaCiLow": 4.3,
+      "gejalaCiHigh": 7.0,
+      "diagnosisValue": 3.4,
+      "diagnosisCiLow": 2.4,
+      "diagnosisCiHigh": 4.8,
+      "nWeighted": 5333
+    },
+    {
+      "name": "Kalimantan Barat",
+      "gejalaValue": 2.7,
+      "gejalaCiLow": 1.7,
+      "gejalaCiHigh": 4.4,
+      "diagnosisValue": 2.2,
+      "diagnosisCiLow": 1.3,
+      "diagnosisCiHigh": 3.6,
+      "nWeighted": 5783
+    },
+    {
+      "name": "Kalimantan Tengah",
+      "gejalaValue": 2.4,
+      "gejalaCiLow": 1.3,
+      "gejalaCiHigh": 4.4,
+      "diagnosisValue": 1.8,
+      "diagnosisCiLow": 0.9,
+      "diagnosisCiHigh": 3.9,
+      "nWeighted": 3178
+    },
+    {
+      "name": "Kalimantan Selatan",
+      "gejalaValue": 4.8,
+      "gejalaCiLow": 3.2,
+      "gejalaCiHigh": 7.1,
+      "diagnosisValue": 3.9,
+      "diagnosisCiLow": 2.5,
+      "diagnosisCiHigh": 6.1,
+      "nWeighted": 5023
+    },
+    {
+      "name": "Kalimantan Timur",
+      "gejalaValue": 3.6,
+      "gejalaCiLow": 1.9,
+      "gejalaCiHigh": 6.8,
+      "diagnosisValue": 3.1,
+      "diagnosisCiLow": 1.6,
+      "diagnosisCiHigh": 6.2,
+      "nWeighted": 4319
+    },
+    {
+      "name": "Kalimantan Utara",
+      "gejalaValue": 1.9,
+      "gejalaCiLow": 0.7,
+      "gejalaCiHigh": 5.0,
+      "diagnosisValue": 1.6,
+      "diagnosisCiLow": 0.5,
+      "diagnosisCiHigh": 4.9,
+      "nWeighted": 729
+    },
+    {
+      "name": "Sulawesi Utara",
+      "gejalaValue": 1.2,
+      "gejalaCiLow": 0.5,
+      "gejalaCiHigh": 3.1,
+      "diagnosisValue": 1.2,
+      "diagnosisCiLow": 0.4,
+      "diagnosisCiHigh": 3.1,
+      "nWeighted": 3031
+    },
+    {
+      "name": "Sulawesi Tengah",
+      "gejalaValue": 3.9,
+      "gejalaCiLow": 2.5,
+      "gejalaCiHigh": 6.1,
+      "diagnosisValue": 3.4,
+      "diagnosisCiLow": 2.1,
+      "diagnosisCiHigh": 5.5,
+      "nWeighted": 3215
+    },
+    {
+      "name": "Sulawesi Selatan",
+      "gejalaValue": 4.8,
+      "gejalaCiLow": 3.7,
+      "gejalaCiHigh": 6.3,
+      "diagnosisValue": 3.1,
+      "diagnosisCiLow": 2.3,
+      "diagnosisCiHigh": 4.1,
+      "nWeighted": 9483
+    },
+    {
+      "name": "Sulawesi Tenggara",
+      "gejalaValue": 2.9,
+      "gejalaCiLow": 1.9,
+      "gejalaCiHigh": 4.5,
+      "diagnosisValue": 2.2,
+      "diagnosisCiLow": 1.4,
+      "diagnosisCiHigh": 3.6,
+      "nWeighted": 2733
+    },
+    {
+      "name": "Gorontalo",
+      "gejalaValue": 2.9,
+      "gejalaCiLow": 1.4,
+      "gejalaCiHigh": 5.9,
+      "diagnosisValue": 2.3,
+      "diagnosisCiLow": 1.1,
+      "diagnosisCiHigh": 4.9,
+      "nWeighted": 1260
+    },
+    {
+      "name": "Sulawesi Barat",
+      "gejalaValue": 5.9,
+      "gejalaCiLow": 3.2,
+      "gejalaCiHigh": 10.8,
+      "diagnosisValue": 4.2,
+      "diagnosisCiLow": 2.1,
+      "diagnosisCiHigh": 8.3,
+      "nWeighted": 1467
+    },
+    {
+      "name": "Maluku",
+      "gejalaValue": 1.3,
+      "gejalaCiLow": 0.6,
+      "gejalaCiHigh": 2.8,
+      "diagnosisValue": 1.2,
+      "diagnosisCiLow": 0.6,
+      "diagnosisCiHigh": 2.7,
+      "nWeighted": 1751
+    },
+    {
+      "name": "Maluku Utara",
+      "gejalaValue": 1.7,
+      "gejalaCiLow": 0.7,
+      "gejalaCiHigh": 4.3,
+      "diagnosisValue": 1.6,
+      "diagnosisCiLow": 0.6,
+      "diagnosisCiHigh": 4.3,
+      "nWeighted": 1222
+    },
+    {
+      "name": "Papua Barat",
+      "gejalaValue": 1.1,
+      "gejalaCiLow": 0.4,
+      "gejalaCiHigh": 3.0,
+      "diagnosisValue": 0.6,
+      "diagnosisCiLow": 0.2,
+      "diagnosisCiHigh": 2.6,
+      "nWeighted": 563
+    },
+    {
+      "name": "Papua Barat Daya",
+      "gejalaValue": 1.3,
+      "gejalaCiLow": 0.5,
+      "gejalaCiHigh": 3.4,
+      "diagnosisValue": 0.7,
+      "diagnosisCiLow": 0.2,
+      "diagnosisCiHigh": 3.0,
+      "nWeighted": 599
+    },
+    {
+      "name": "Papua",
+      "gejalaValue": 3.0,
+      "gejalaCiLow": 1.0,
+      "gejalaCiHigh": 9.0,
+      "diagnosisValue": 1.6,
+      "diagnosisCiLow": 0.5,
+      "diagnosisCiHigh": 5.1,
+      "nWeighted": 1029
+    },
+    {
+      "name": "Papua Selatan",
+      "gejalaValue": 1.0,
+      "gejalaCiLow": 0.1,
+      "gejalaCiHigh": 7.0,
+      "diagnosisValue": 1.0,
+      "diagnosisCiLow": 0.1,
+      "diagnosisCiHigh": 7.0,
+      "nWeighted": 546
+    },
+    {
+      "name": "Papua Tengah",
+      "gejalaValue": 3.0,
+      "gejalaCiLow": 1.3,
+      "gejalaCiHigh": 6.9,
+      "diagnosisValue": 0.4,
+      "diagnosisCiLow": 0.1,
+      "diagnosisCiHigh": 2.7,
+      "nWeighted": 1528
+    },
+    {
+      "name": "Papua Pegunungan",
+      "gejalaValue": 2.2,
+      "gejalaCiLow": 0.8,
+      "gejalaCiHigh": 6.0,
+      "diagnosisValue": 0.2,
+      "diagnosisCiLow": 0.0,
+      "diagnosisCiHigh": 1.2,
+      "nWeighted": 1516
+    },
+    {
+      "name": "INDONESIA",
+      "gejalaValue": 4.0,
+      "gejalaCiLow": 3.7,
+      "gejalaCiHigh": 4.4,
+      "diagnosisValue": 3.0,
+      "diagnosisCiLow": 2.7,
+      "diagnosisCiHigh": 3.3,
+      "nWeighted": 315621
+    }
+  ],
+  "t5_2": [
+    {
+      "group": "Tempat Tinggal",
+      "label": "Perkotaan",
+      "gejalaValue": 4.0,
+      "gejalaCiLow": 3.6,
+      "gejalaCiHigh": 4.5,
+      "diagnosisValue": 3.1,
+      "diagnosisCiLow": 2.8,
+      "diagnosisCiHigh": 3.6,
+      "nWeighted": 183405
+    },
+    {
+      "group": "Tempat Tinggal",
+      "label": "Perdesaan",
+      "gejalaValue": 4.0,
+      "gejalaCiLow": 3.5,
+      "gejalaCiHigh": 4.7,
+      "diagnosisValue": 2.8,
+      "diagnosisCiLow": 2.3,
+      "diagnosisCiHigh": 3.3,
+      "nWeighted": 132216
+    },
+    {
+      "group": "Status Ekonomi",
+      "label": "Terbawah",
+      "gejalaValue": 8.8,
+      "gejalaCiLow": 7.5,
+      "gejalaCiHigh": 10.2,
+      "diagnosisValue": 5.9,
+      "diagnosisCiLow": 4.9,
+      "diagnosisCiHigh": 7.1,
+      "nWeighted": 50291
+    },
+    {
+      "group": "Status Ekonomi",
+      "label": "Menengah bawah",
+      "gejalaValue": 5.2,
+      "gejalaCiLow": 4.3,
+      "gejalaCiHigh": 6.2,
+      "diagnosisValue": 3.7,
+      "diagnosisCiLow": 3.0,
+      "diagnosisCiHigh": 4.6,
+      "nWeighted": 59016
+    },
+    {
+      "group": "Status Ekonomi",
+      "label": "Menengah",
+      "gejalaValue": 3.8,
+      "gejalaCiLow": 3.0,
+      "gejalaCiHigh": 4.6,
+      "diagnosisValue": 3.0,
+      "diagnosisCiLow": 2.4,
+      "diagnosisCiHigh": 3.8,
+      "nWeighted": 65697
+    },
+    {
+      "group": "Status Ekonomi",
+      "label": "Menengah atas",
+      "gejalaValue": 2.3,
+      "gejalaCiLow": 1.8,
+      "gejalaCiHigh": 2.9,
+      "diagnosisValue": 1.9,
+      "diagnosisCiLow": 1.5,
+      "diagnosisCiHigh": 2.4,
+      "nWeighted": 71513
+    },
+    {
+      "group": "Status Ekonomi",
+      "label": "Teratas",
+      "gejalaValue": 1.5,
+      "gejalaCiLow": 1.1,
+      "gejalaCiHigh": 2.1,
+      "diagnosisValue": 1.4,
+      "diagnosisCiLow": 1.0,
+      "diagnosisCiHigh": 1.9,
+      "nWeighted": 69104
+    }
+  ],
+  "t5_3": [
+    {
+      "label": "Perkotaan",
+      "value": 5.4,
+      "ciLow": 3.5,
+      "ciHigh": 8.1,
+      "nWeighted": 514,
+      "isLowSample": false,
+      "group": "Tempat Tinggal"
+    },
+    {
+      "label": "Perdesaan",
+      "value": 8.4,
+      "ciLow": 6.8,
+      "ciHigh": 10.4,
+      "nWeighted": 330,
+      "isLowSample": false,
+      "group": "Tempat Tinggal"
+    },
+    {
+      "label": "Terbawah",
+      "value": 9.9,
+      "ciLow": 7.4,
+      "ciHigh": 13.0,
+      "nWeighted": 265,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Menengah bawah",
+      "value": 6.1,
+      "ciLow": 3.7,
+      "ciHigh": 10.1,
+      "nWeighted": 195,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Menengah",
+      "value": 4.7,
+      "ciLow": 2.1,
+      "ciHigh": 10.2,
+      "nWeighted": 175,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Menengah atas",
+      "value": 5.1,
+      "ciLow": 2.0,
+      "ciHigh": 12.3,
+      "nWeighted": 122,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Teratas",
+      "value": 3.2,
+      "ciLow": 1.2,
+      "ciHigh": 8.2,
+      "nWeighted": 87,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "INDONESIA",
+      "value": 6.6,
+      "ciLow": 5.2,
+      "ciHigh": 8.3,
+      "nWeighted": 844,
+      "isLowSample": false,
+      "group": "Nasional"
+    }
+  ],
+  "t5_4": [
+    {
+      "label": "Aceh",
+      "value": 0.8,
+      "ciLow": 0.6,
+      "ciHigh": 1.1,
+      "nWeighted": 11858,
+      "isLowSample": false
+    },
+    {
+      "label": "Sumatera Utara",
+      "value": 1.2,
+      "ciLow": 0.9,
+      "ciHigh": 1.6,
+      "nWeighted": 33667,
+      "isLowSample": false
+    },
+    {
+      "label": "Sumatera Barat",
+      "value": 0.8,
+      "ciLow": 0.6,
+      "ciHigh": 1.0,
+      "nWeighted": 12973,
+      "isLowSample": false
+    },
+    {
+      "label": "Riau",
+      "value": 0.6,
+      "ciLow": 0.5,
+      "ciHigh": 0.8,
+      "nWeighted": 14408,
+      "isLowSample": false
+    },
+    {
+      "label": "Jambi",
+      "value": 0.3,
+      "ciLow": 0.2,
+      "ciHigh": 0.4,
+      "nWeighted": 7890,
+      "isLowSample": false
+    },
+    {
+      "label": "Sumatera Selatan",
+      "value": 0.5,
+      "ciLow": 0.4,
+      "ciHigh": 0.6,
+      "nWeighted": 19282,
+      "isLowSample": false
+    },
+    {
+      "label": "Bengkulu",
+      "value": 0.5,
+      "ciLow": 0.4,
+      "ciHigh": 0.8,
+      "nWeighted": 4674,
+      "isLowSample": false
+    },
+    {
+      "label": "Lampung",
+      "value": 0.5,
+      "ciLow": 0.4,
+      "ciHigh": 0.6,
+      "nWeighted": 20646,
+      "isLowSample": false
+    },
+    {
+      "label": "Kepulauan Bangka Belitung",
+      "value": 0.3,
+      "ciLow": 0.2,
+      "ciHigh": 0.4,
+      "nWeighted": 3439,
+      "isLowSample": false
+    },
+    {
+      "label": "Kepulauan Riau",
+      "value": 0.5,
+      "ciLow": 0.3,
+      "ciHigh": 0.8,
+      "nWeighted": 4778,
+      "isLowSample": false
+    },
+    {
+      "label": "DKI Jakarta",
+      "value": 1.5,
+      "ciLow": 1.2,
+      "ciHigh": 2.0,
+      "nWeighted": 24697,
+      "isLowSample": false
+    },
+    {
+      "label": "Jawa Barat",
+      "value": 3.3,
+      "ciLow": 3.0,
+      "ciHigh": 3.7,
+      "nWeighted": 113568,
+      "isLowSample": false
+    },
+    {
+      "label": "Jawa Tengah",
+      "value": 1.0,
+      "ciLow": 0.9,
+      "ciHigh": 1.2,
+      "nWeighted": 86668,
+      "isLowSample": false
+    },
+    {
+      "label": "DI Yogyakarta",
+      "value": 1.5,
+      "ciLow": 1.2,
+      "ciHigh": 1.8,
+      "nWeighted": 8827,
+      "isLowSample": false
+    },
+    {
+      "label": "Jawa Timur",
+      "value": 0.7,
+      "ciLow": 0.6,
+      "ciHigh": 0.8,
+      "nWeighted": 97746,
+      "isLowSample": false
+    },
+    {
+      "label": "Banten",
+      "value": 1.7,
+      "ciLow": 1.3,
+      "ciHigh": 2.4,
+      "nWeighted": 27507,
+      "isLowSample": false
+    },
+    {
+      "label": "Bali",
+      "value": 0.2,
+      "ciLow": 0.1,
+      "ciHigh": 0.3,
+      "nWeighted": 10412,
+      "isLowSample": false
+    },
+    {
+      "label": "Nusa Tenggara Barat",
+      "value": 1.3,
+      "ciLow": 1.0,
+      "ciHigh": 1.8,
+      "nWeighted": 11964,
+      "isLowSample": false
+    },
+    {
+      "label": "Nusa Tenggara Timur",
+      "value": 1.1,
+      "ciLow": 0.9,
+      "ciHigh": 1.3,
+      "nWeighted": 11779,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Barat",
+      "value": 0.5,
+      "ciLow": 0.4,
+      "ciHigh": 0.7,
+      "nWeighted": 12525,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Tengah",
+      "value": 0.3,
+      "ciLow": 0.2,
+      "ciHigh": 0.4,
+      "nWeighted": 6163,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Selatan",
+      "value": 0.5,
+      "ciLow": 0.4,
+      "ciHigh": 0.7,
+      "nWeighted": 9301,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Timur",
+      "value": 2.2,
+      "ciLow": 1.7,
+      "ciHigh": 2.7,
+      "nWeighted": 8850,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Utara",
+      "value": 0.5,
+      "ciLow": 0.3,
+      "ciHigh": 0.9,
+      "nWeighted": 1637,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Utara",
+      "value": 1.4,
+      "ciLow": 1.0,
+      "ciHigh": 1.8,
+      "nWeighted": 6178,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Tengah",
+      "value": 1.5,
+      "ciLow": 1.1,
+      "ciHigh": 1.9,
+      "nWeighted": 6832,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Selatan",
+      "value": 1.7,
+      "ciLow": 1.4,
+      "ciHigh": 2.0,
+      "nWeighted": 21208,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Tenggara",
+      "value": 0.8,
+      "ciLow": 0.6,
+      "ciHigh": 1.0,
+      "nWeighted": 5912,
+      "isLowSample": false
+    },
+    {
+      "label": "Gorontalo",
+      "value": 1.0,
+      "ciLow": 0.7,
+      "ciHigh": 1.5,
+      "nWeighted": 2753,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Barat",
+      "value": 0.6,
+      "ciLow": 0.4,
+      "ciHigh": 0.9,
+      "nWeighted": 3171,
+      "isLowSample": false
+    },
+    {
+      "label": "Maluku",
+      "value": 0.7,
+      "ciLow": 0.5,
+      "ciHigh": 0.9,
+      "nWeighted": 4273,
+      "isLowSample": false
+    },
+    {
+      "label": "Maluku Utara",
+      "value": 0.7,
+      "ciLow": 0.5,
+      "ciHigh": 0.9,
+      "nWeighted": 2920,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua Barat",
+      "value": 0.7,
+      "ciLow": 0.4,
+      "ciHigh": 1.1,
+      "nWeighted": 1219,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua Barat Daya",
+      "value": 1.1,
+      "ciLow": 0.7,
+      "ciHigh": 1.7,
+      "nWeighted": 1359,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua",
+      "value": 0.6,
+      "ciLow": 0.4,
+      "ciHigh": 0.9,
+      "nWeighted": 2059,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua Selatan",
+      "value": 0.5,
+      "ciLow": 0.3,
+      "ciHigh": 1.1,
+      "nWeighted": 982,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua Tengah",
+      "value": 1.0,
+      "ciLow": 0.5,
+      "ciHigh": 2.0,
+      "nWeighted": 3249,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua Pegunungan",
+      "value": 0.8,
+      "ciLow": 0.4,
+      "ciHigh": 1.9,
+      "nWeighted": 3454,
+      "isLowSample": false
+    },
+    {
+      "label": "INDONESIA",
+      "value": 1.4,
+      "ciLow": 1.3,
+      "ciHigh": 1.5,
+      "nWeighted": 630827,
+      "isLowSample": false
+    }
+  ],
+  "t5_5": [
+    {
+      "label": "15-24",
+      "value": 2.0,
+      "ciLow": 1.8,
+      "ciHigh": 2.2,
+      "nWeighted": 130977,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "25-34",
+      "value": 1.3,
+      "ciLow": 1.2,
+      "ciHigh": 1.5,
+      "nWeighted": 132645,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "35-44",
+      "value": 1.0,
+      "ciLow": 0.9,
+      "ciHigh": 1.1,
+      "nWeighted": 124836,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "45-54",
+      "value": 1.1,
+      "ciLow": 1.0,
+      "ciHigh": 1.3,
+      "nWeighted": 107685,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "55-64",
+      "value": 1.2,
+      "ciLow": 1.1,
+      "ciHigh": 1.4,
+      "nWeighted": 77553,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "65-74",
+      "value": 1.6,
+      "ciLow": 1.4,
+      "ciHigh": 1.8,
+      "nWeighted": 42219,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "75+",
+      "value": 1.9,
+      "ciLow": 1.5,
+      "ciHigh": 2.3,
+      "nWeighted": 14912,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "Laki-laki",
+      "value": 1.0,
+      "ciLow": 0.9,
+      "ciHigh": 1.1,
+      "nWeighted": 316156,
+      "isLowSample": false,
+      "group": "Jenis Kelamin"
+    },
+    {
+      "label": "Perempuan",
+      "value": 1.8,
+      "ciLow": 1.6,
+      "ciHigh": 1.9,
+      "nWeighted": 314671,
+      "isLowSample": false,
+      "group": "Jenis Kelamin"
+    },
+    {
+      "label": "Tidak/belum pernah sekolah",
+      "value": 1.5,
+      "ciLow": 1.3,
+      "ciHigh": 1.7,
+      "nWeighted": 27090,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tidak tamat SD/MI",
+      "value": 1.5,
+      "ciLow": 1.3,
+      "ciHigh": 1.7,
+      "nWeighted": 40315,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat SD/MI",
+      "value": 1.5,
+      "ciLow": 1.4,
+      "ciHigh": 1.7,
+      "nWeighted": 163009,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat SLTP/MTs",
+      "value": 1.5,
+      "ciLow": 1.4,
+      "ciHigh": 1.7,
+      "nWeighted": 134648,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat SLTA/MA",
+      "value": 1.3,
+      "ciLow": 1.2,
+      "ciHigh": 1.4,
+      "nWeighted": 205030,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat D1/D2/D3/PT",
+      "value": 0.7,
+      "ciLow": 0.6,
+      "ciHigh": 0.9,
+      "nWeighted": 60735,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tidak bekerja",
+      "value": 2.0,
+      "ciLow": 1.9,
+      "ciHigh": 2.2,
+      "nWeighted": 187265,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Sekolah",
+      "value": 2.0,
+      "ciLow": 1.8,
+      "ciHigh": 2.3,
+      "nWeighted": 58605,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "PNS/TNI/POLRI/BUMN/BUMD",
+      "value": 0.3,
+      "ciLow": 0.2,
+      "ciHigh": 0.3,
+      "nWeighted": 19723,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Pegawai swasta",
+      "value": 1.0,
+      "ciLow": 0.8,
+      "ciHigh": 1.2,
+      "nWeighted": 71965,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Wiraswasta",
+      "value": 1.0,
+      "ciLow": 0.8,
+      "ciHigh": 1.2,
+      "nWeighted": 96764,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Petani/buruh tani",
+      "value": 0.7,
+      "ciLow": 0.6,
+      "ciHigh": 0.8,
+      "nWeighted": 102215,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Nelayan",
+      "value": 0.8,
+      "ciLow": 0.5,
+      "ciHigh": 1.2,
+      "nWeighted": 5074,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Buruh/sopir/pembantu ruta",
+      "value": 1.6,
+      "ciLow": 1.4,
+      "ciHigh": 1.9,
+      "nWeighted": 51213,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Lainnya",
+      "value": 1.1,
+      "ciLow": 0.9,
+      "ciHigh": 1.3,
+      "nWeighted": 38002,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Perkotaan",
+      "value": 1.7,
+      "ciLow": 1.6,
+      "ciHigh": 1.8,
+      "nWeighted": 369660,
+      "isLowSample": false,
+      "group": "Tempat Tinggal"
+    },
+    {
+      "label": "Perdesaan",
+      "value": 0.9,
+      "ciLow": 0.8,
+      "ciHigh": 1.0,
+      "nWeighted": 261167,
+      "isLowSample": false,
+      "group": "Tempat Tinggal"
+    },
+    {
+      "label": "Terbawah",
+      "value": 1.6,
+      "ciLow": 1.4,
+      "ciHigh": 1.8,
+      "nWeighted": 92202,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Menengah bawah",
+      "value": 1.3,
+      "ciLow": 1.2,
+      "ciHigh": 1.5,
+      "nWeighted": 115108,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Menengah",
+      "value": 1.3,
+      "ciLow": 1.2,
+      "ciHigh": 1.5,
+      "nWeighted": 133106,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Menengah atas",
+      "value": 1.4,
+      "ciLow": 1.3,
+      "ciHigh": 1.6,
+      "nWeighted": 146053,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Teratas",
+      "value": 1.2,
+      "ciLow": 1.1,
+      "ciHigh": 1.4,
+      "nWeighted": 144310,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    }
+  ],
+  "t5_6": [
+    {
+      "label": "Aceh",
+      "value": 1.7,
+      "ciLow": 1.5,
+      "ciHigh": 1.9,
+      "nWeighted": 11858,
+      "isLowSample": false
+    },
+    {
+      "label": "Sumatera Utara",
+      "value": 1.8,
+      "ciLow": 1.4,
+      "ciHigh": 2.2,
+      "nWeighted": 33667,
+      "isLowSample": false
+    },
+    {
+      "label": "Sumatera Barat",
+      "value": 1.3,
+      "ciLow": 1.0,
+      "ciHigh": 1.6,
+      "nWeighted": 12973,
+      "isLowSample": false
+    },
+    {
+      "label": "Riau",
+      "value": 1.2,
+      "ciLow": 1.0,
+      "ciHigh": 1.5,
+      "nWeighted": 14408,
+      "isLowSample": false
+    },
+    {
+      "label": "Jambi",
+      "value": 0.9,
+      "ciLow": 0.6,
+      "ciHigh": 1.3,
+      "nWeighted": 7890,
+      "isLowSample": false
+    },
+    {
+      "label": "Sumatera Selatan",
+      "value": 0.9,
+      "ciLow": 0.7,
+      "ciHigh": 1.1,
+      "nWeighted": 19282,
+      "isLowSample": false
+    },
+    {
+      "label": "Bengkulu",
+      "value": 1.1,
+      "ciLow": 0.8,
+      "ciHigh": 1.5,
+      "nWeighted": 4674,
+      "isLowSample": false
+    },
+    {
+      "label": "Lampung",
+      "value": 0.7,
+      "ciLow": 0.5,
+      "ciHigh": 0.9,
+      "nWeighted": 20646,
+      "isLowSample": false
+    },
+    {
+      "label": "Kepulauan Bangka Belitung",
+      "value": 0.5,
+      "ciLow": 0.4,
+      "ciHigh": 0.7,
+      "nWeighted": 3439,
+      "isLowSample": false
+    },
+    {
+      "label": "Kepulauan Riau",
+      "value": 0.9,
+      "ciLow": 0.6,
+      "ciHigh": 1.2,
+      "nWeighted": 4778,
+      "isLowSample": false
+    },
+    {
+      "label": "DKI Jakarta",
+      "value": 2.3,
+      "ciLow": 1.9,
+      "ciHigh": 2.9,
+      "nWeighted": 24697,
+      "isLowSample": false
+    },
+    {
+      "label": "Jawa Barat",
+      "value": 4.4,
+      "ciLow": 4.0,
+      "ciHigh": 4.8,
+      "nWeighted": 113568,
+      "isLowSample": false
+    },
+    {
+      "label": "Jawa Tengah",
+      "value": 1.7,
+      "ciLow": 1.5,
+      "ciHigh": 2.0,
+      "nWeighted": 86668,
+      "isLowSample": false
+    },
+    {
+      "label": "DI Yogyakarta",
+      "value": 1.9,
+      "ciLow": 1.6,
+      "ciHigh": 2.4,
+      "nWeighted": 8827,
+      "isLowSample": false
+    },
+    {
+      "label": "Jawa Timur",
+      "value": 1.0,
+      "ciLow": 0.8,
+      "ciHigh": 1.1,
+      "nWeighted": 97746,
+      "isLowSample": false
+    },
+    {
+      "label": "Banten",
+      "value": 2.7,
+      "ciLow": 2.0,
+      "ciHigh": 3.6,
+      "nWeighted": 27507,
+      "isLowSample": false
+    },
+    {
+      "label": "Bali",
+      "value": 0.3,
+      "ciLow": 0.2,
+      "ciHigh": 0.5,
+      "nWeighted": 10412,
+      "isLowSample": false
+    },
+    {
+      "label": "Nusa Tenggara Barat",
+      "value": 1.7,
+      "ciLow": 1.3,
+      "ciHigh": 2.4,
+      "nWeighted": 11964,
+      "isLowSample": false
+    },
+    {
+      "label": "Nusa Tenggara Timur",
+      "value": 2.2,
+      "ciLow": 1.9,
+      "ciHigh": 2.5,
+      "nWeighted": 11779,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Barat",
+      "value": 0.6,
+      "ciLow": 0.5,
+      "ciHigh": 0.8,
+      "nWeighted": 12525,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Tengah",
+      "value": 0.6,
+      "ciLow": 0.4,
+      "ciHigh": 0.8,
+      "nWeighted": 6163,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Selatan",
+      "value": 1.0,
+      "ciLow": 0.8,
+      "ciHigh": 1.3,
+      "nWeighted": 9301,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Timur",
+      "value": 2.9,
+      "ciLow": 2.4,
+      "ciHigh": 3.5,
+      "nWeighted": 8850,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Utara",
+      "value": 0.8,
+      "ciLow": 0.5,
+      "ciHigh": 1.3,
+      "nWeighted": 1637,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Utara",
+      "value": 1.9,
+      "ciLow": 1.5,
+      "ciHigh": 2.4,
+      "nWeighted": 6178,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Tengah",
+      "value": 2.5,
+      "ciLow": 2.0,
+      "ciHigh": 3.0,
+      "nWeighted": 6832,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Selatan",
+      "value": 2.7,
+      "ciLow": 2.3,
+      "ciHigh": 3.1,
+      "nWeighted": 21208,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Tenggara",
+      "value": 1.6,
+      "ciLow": 1.4,
+      "ciHigh": 1.9,
+      "nWeighted": 5912,
+      "isLowSample": false
+    },
+    {
+      "label": "Gorontalo",
+      "value": 1.6,
+      "ciLow": 1.3,
+      "ciHigh": 2.1,
+      "nWeighted": 2753,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Barat",
+      "value": 1.4,
+      "ciLow": 1.1,
+      "ciHigh": 1.9,
+      "nWeighted": 3171,
+      "isLowSample": false
+    },
+    {
+      "label": "Maluku",
+      "value": 1.4,
+      "ciLow": 1.1,
+      "ciHigh": 1.8,
+      "nWeighted": 4273,
+      "isLowSample": false
+    },
+    {
+      "label": "Maluku Utara",
+      "value": 0.8,
+      "ciLow": 0.6,
+      "ciHigh": 1.1,
+      "nWeighted": 2920,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua Barat",
+      "value": 1.6,
+      "ciLow": 1.1,
+      "ciHigh": 2.3,
+      "nWeighted": 1219,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua Barat Daya",
+      "value": 2.1,
+      "ciLow": 1.5,
+      "ciHigh": 2.9,
+      "nWeighted": 1359,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua",
+      "value": 1.3,
+      "ciLow": 0.9,
+      "ciHigh": 1.7,
+      "nWeighted": 2059,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua Selatan",
+      "value": 1.3,
+      "ciLow": 0.6,
+      "ciHigh": 2.8,
+      "nWeighted": 982,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua Tengah",
+      "value": 2.9,
+      "ciLow": 1.7,
+      "ciHigh": 4.8,
+      "nWeighted": 3249,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua Pegunungan",
+      "value": 3.0,
+      "ciLow": 2.0,
+      "ciHigh": 4.6,
+      "nWeighted": 3454,
+      "isLowSample": false
+    },
+    {
+      "label": "INDONESIA",
+      "value": 2.0,
+      "ciLow": 2.0,
+      "ciHigh": 2.1,
+      "nWeighted": 630827,
+      "isLowSample": false
+    }
+  ],
+  "t5_7": [
+    {
+      "label": "15-24",
+      "value": 2.8,
+      "ciLow": 2.6,
+      "ciHigh": 3.1,
+      "nWeighted": 130977,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "25-34",
+      "value": 1.7,
+      "ciLow": 1.5,
+      "ciHigh": 1.9,
+      "nWeighted": 132645,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "35-44",
+      "value": 1.5,
+      "ciLow": 1.3,
+      "ciHigh": 1.6,
+      "nWeighted": 124836,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "45-54",
+      "value": 1.8,
+      "ciLow": 1.6,
+      "ciHigh": 1.9,
+      "nWeighted": 107685,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "55-64",
+      "value": 2.1,
+      "ciLow": 1.9,
+      "ciHigh": 2.3,
+      "nWeighted": 77553,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "65-74",
+      "value": 2.7,
+      "ciLow": 2.5,
+      "ciHigh": 3.0,
+      "nWeighted": 42219,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "75+",
+      "value": 3.1,
+      "ciLow": 2.7,
+      "ciHigh": 3.6,
+      "nWeighted": 14912,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "Laki-laki",
+      "value": 1.5,
+      "ciLow": 1.4,
+      "ciHigh": 1.6,
+      "nWeighted": 316156,
+      "isLowSample": false,
+      "group": "Jenis Kelamin"
+    },
+    {
+      "label": "Perempuan",
+      "value": 2.6,
+      "ciLow": 2.5,
+      "ciHigh": 2.8,
+      "nWeighted": 314671,
+      "isLowSample": false,
+      "group": "Jenis Kelamin"
+    },
+    {
+      "label": "Tidak/belum pernah sekolah",
+      "value": 2.6,
+      "ciLow": 2.3,
+      "ciHigh": 3.0,
+      "nWeighted": 27090,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tidak tamat SD/MI",
+      "value": 2.4,
+      "ciLow": 2.1,
+      "ciHigh": 2.7,
+      "nWeighted": 40315,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat SD/MI",
+      "value": 2.4,
+      "ciLow": 2.2,
+      "ciHigh": 2.5,
+      "nWeighted": 163009,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat SLTP/MTs",
+      "value": 2.2,
+      "ciLow": 2.0,
+      "ciHigh": 2.4,
+      "nWeighted": 134648,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat SLTA/MA",
+      "value": 1.8,
+      "ciLow": 1.7,
+      "ciHigh": 1.9,
+      "nWeighted": 205030,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat D1/D2/D3/PT",
+      "value": 1.2,
+      "ciLow": 1.1,
+      "ciHigh": 1.4,
+      "nWeighted": 60735,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tidak bekerja",
+      "value": 2.9,
+      "ciLow": 2.8,
+      "ciHigh": 3.1,
+      "nWeighted": 187265,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Sekolah",
+      "value": 2.9,
+      "ciLow": 2.6,
+      "ciHigh": 3.2,
+      "nWeighted": 58605,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "PNS/TNI/POLRI/BUMN/BUMD",
+      "value": 0.7,
+      "ciLow": 0.5,
+      "ciHigh": 0.9,
+      "nWeighted": 19723,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Pegawai swasta",
+      "value": 1.2,
+      "ciLow": 1.1,
+      "ciHigh": 1.4,
+      "nWeighted": 71965,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Wiraswasta",
+      "value": 1.4,
+      "ciLow": 1.2,
+      "ciHigh": 1.5,
+      "nWeighted": 96764,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Petani/buruh tani",
+      "value": 1.3,
+      "ciLow": 1.2,
+      "ciHigh": 1.4,
+      "nWeighted": 102215,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Nelayan",
+      "value": 1.2,
+      "ciLow": 0.9,
+      "ciHigh": 1.7,
+      "nWeighted": 5074,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Buruh/sopir/pembantu ruta",
+      "value": 2.5,
+      "ciLow": 2.2,
+      "ciHigh": 2.9,
+      "nWeighted": 51213,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Lainnya",
+      "value": 1.8,
+      "ciLow": 1.6,
+      "ciHigh": 2.1,
+      "nWeighted": 38002,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Perkotaan",
+      "value": 2.4,
+      "ciLow": 2.2,
+      "ciHigh": 2.5,
+      "nWeighted": 369660,
+      "isLowSample": false,
+      "group": "Tempat Tinggal"
+    },
+    {
+      "label": "Perdesaan",
+      "value": 1.6,
+      "ciLow": 1.5,
+      "ciHigh": 1.8,
+      "nWeighted": 261167,
+      "isLowSample": false,
+      "group": "Tempat Tinggal"
+    },
+    {
+      "label": "Terbawah",
+      "value": 2.5,
+      "ciLow": 2.3,
+      "ciHigh": 2.7,
+      "nWeighted": 92202,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Menengah bawah",
+      "value": 2.1,
+      "ciLow": 2.0,
+      "ciHigh": 2.3,
+      "nWeighted": 115108,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Menengah",
+      "value": 2.0,
+      "ciLow": 1.9,
+      "ciHigh": 2.2,
+      "nWeighted": 133106,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Menengah atas",
+      "value": 2.0,
+      "ciLow": 1.8,
+      "ciHigh": 2.2,
+      "nWeighted": 146053,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Teratas",
+      "value": 1.8,
+      "ciLow": 1.6,
+      "ciHigh": 1.9,
+      "nWeighted": 144310,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    }
+  ],
+  "t5_8": [
+    {
+      "label": "Aceh",
+      "value": 0.15,
+      "ciLow": 0.09,
+      "ciHigh": 0.22,
+      "nWeighted": 11858,
+      "isLowSample": false
+    },
+    {
+      "label": "Sumatera Utara",
+      "value": 0.23,
+      "ciLow": 0.16,
+      "ciHigh": 0.34,
+      "nWeighted": 33667,
+      "isLowSample": false
+    },
+    {
+      "label": "Sumatera Barat",
+      "value": 0.18,
+      "ciLow": 0.12,
+      "ciHigh": 0.28,
+      "nWeighted": 12973,
+      "isLowSample": false
+    },
+    {
+      "label": "Riau",
+      "value": 0.18,
+      "ciLow": 0.12,
+      "ciHigh": 0.28,
+      "nWeighted": 14408,
+      "isLowSample": false
+    },
+    {
+      "label": "Jambi",
+      "value": 0.09,
+      "ciLow": 0.04,
+      "ciHigh": 0.18,
+      "nWeighted": 7890,
+      "isLowSample": false
+    },
+    {
+      "label": "Sumatera Selatan",
+      "value": 0.11,
+      "ciLow": 0.07,
+      "ciHigh": 0.17,
+      "nWeighted": 19282,
+      "isLowSample": false
+    },
+    {
+      "label": "Bengkulu",
+      "value": 0.08,
+      "ciLow": 0.03,
+      "ciHigh": 0.19,
+      "nWeighted": 4674,
+      "isLowSample": false
+    },
+    {
+      "label": "Lampung",
+      "value": 0.14,
+      "ciLow": 0.08,
+      "ciHigh": 0.25,
+      "nWeighted": 20646,
+      "isLowSample": false
+    },
+    {
+      "label": "Kepulauan Bangka Belitung",
+      "value": 0.07,
+      "ciLow": 0.03,
+      "ciHigh": 0.17,
+      "nWeighted": 3439,
+      "isLowSample": false
+    },
+    {
+      "label": "Kepulauan Riau",
+      "value": 0.12,
+      "ciLow": 0.07,
+      "ciHigh": 0.23,
+      "nWeighted": 4778,
+      "isLowSample": false
+    },
+    {
+      "label": "DKI Jakarta",
+      "value": 0.44,
+      "ciLow": 0.28,
+      "ciHigh": 0.7,
+      "nWeighted": 24697,
+      "isLowSample": false
+    },
+    {
+      "label": "Jawa Barat",
+      "value": 0.45,
+      "ciLow": 0.36,
+      "ciHigh": 0.56,
+      "nWeighted": 113568,
+      "isLowSample": false
+    },
+    {
+      "label": "Jawa Tengah",
+      "value": 0.18,
+      "ciLow": 0.14,
+      "ciHigh": 0.23,
+      "nWeighted": 86668,
+      "isLowSample": false
+    },
+    {
+      "label": "DI Yogyakarta",
+      "value": 0.3,
+      "ciLow": 0.19,
+      "ciHigh": 0.47,
+      "nWeighted": 8827,
+      "isLowSample": false
+    },
+    {
+      "label": "Jawa Timur",
+      "value": 0.1,
+      "ciLow": 0.07,
+      "ciHigh": 0.14,
+      "nWeighted": 97746,
+      "isLowSample": false
+    },
+    {
+      "label": "Banten",
+      "value": 0.36,
+      "ciLow": 0.21,
+      "ciHigh": 0.62,
+      "nWeighted": 27507,
+      "isLowSample": false
+    },
+    {
+      "label": "Bali",
+      "value": 0.06,
+      "ciLow": 0.02,
+      "ciHigh": 0.13,
+      "nWeighted": 10412,
+      "isLowSample": false
+    },
+    {
+      "label": "Nusa Tenggara Barat",
+      "value": 0.22,
+      "ciLow": 0.11,
+      "ciHigh": 0.46,
+      "nWeighted": 11964,
+      "isLowSample": false
+    },
+    {
+      "label": "Nusa Tenggara Timur",
+      "value": 0.26,
+      "ciLow": 0.2,
+      "ciHigh": 0.35,
+      "nWeighted": 11779,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Barat",
+      "value": 0.06,
+      "ciLow": 0.03,
+      "ciHigh": 0.16,
+      "nWeighted": 12525,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Tengah",
+      "value": 0.08,
+      "ciLow": 0.04,
+      "ciHigh": 0.16,
+      "nWeighted": 6163,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Selatan",
+      "value": 0.08,
+      "ciLow": 0.05,
+      "ciHigh": 0.13,
+      "nWeighted": 9301,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Timur",
+      "value": 0.5,
+      "ciLow": 0.35,
+      "ciHigh": 0.69,
+      "nWeighted": 8850,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Utara",
+      "value": 0.23,
+      "ciLow": 0.1,
+      "ciHigh": 0.54,
+      "nWeighted": 1637,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Utara",
+      "value": 0.23,
+      "ciLow": 0.13,
+      "ciHigh": 0.42,
+      "nWeighted": 6178,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Tengah",
+      "value": 0.35,
+      "ciLow": 0.25,
+      "ciHigh": 0.51,
+      "nWeighted": 6832,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Selatan",
+      "value": 0.29,
+      "ciLow": 0.2,
+      "ciHigh": 0.41,
+      "nWeighted": 21208,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Tenggara",
+      "value": 0.24,
+      "ciLow": 0.16,
+      "ciHigh": 0.37,
+      "nWeighted": 5912,
+      "isLowSample": false
+    },
+    {
+      "label": "Gorontalo",
+      "value": 0.11,
+      "ciLow": 0.04,
+      "ciHigh": 0.28,
+      "nWeighted": 2753,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Barat",
+      "value": 0.21,
+      "ciLow": 0.11,
+      "ciHigh": 0.42,
+      "nWeighted": 3171,
+      "isLowSample": false
+    },
+    {
+      "label": "Maluku",
+      "value": 0.17,
+      "ciLow": 0.1,
+      "ciHigh": 0.31,
+      "nWeighted": 4273,
+      "isLowSample": false
+    },
+    {
+      "label": "Maluku Utara",
+      "value": 0.18,
+      "ciLow": 0.1,
+      "ciHigh": 0.31,
+      "nWeighted": 2920,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua Barat",
+      "value": 0.57,
+      "ciLow": 0.14,
+      "ciHigh": 2.38,
+      "nWeighted": 1219,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua Barat Daya",
+      "value": 0.4,
+      "ciLow": 0.17,
+      "ciHigh": 0.92,
+      "nWeighted": 1359,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua",
+      "value": 0.24,
+      "ciLow": 0.06,
+      "ciHigh": 0.89,
+      "nWeighted": 2059,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua Selatan",
+      "value": 0.18,
+      "ciLow": 0.07,
+      "ciHigh": 0.43,
+      "nWeighted": 982,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua Tengah",
+      "value": 1.64,
+      "ciLow": 0.78,
+      "ciHigh": 3.44,
+      "nWeighted": 3249,
+      "isLowSample": false
+    },
+    {
+      "label": "Papua Pegunungan",
+      "value": 0.21,
+      "ciLow": 0.09,
+      "ciHigh": 0.46,
+      "nWeighted": 3454,
+      "isLowSample": false
+    },
+    {
+      "label": "INDONESIA",
+      "value": 0.25,
+      "ciLow": 0.22,
+      "ciHigh": 0.27,
+      "nWeighted": 630827,
+      "isLowSample": false
+    }
+  ],
+  "t5_9": [
+    {
+      "label": "15-24",
+      "value": 0.39,
+      "ciLow": 0.33,
+      "ciHigh": 0.48,
+      "nWeighted": 130977,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "25-34",
+      "value": 0.22,
+      "ciLow": 0.17,
+      "ciHigh": 0.28,
+      "nWeighted": 132645,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "35-44",
+      "value": 0.19,
+      "ciLow": 0.15,
+      "ciHigh": 0.23,
+      "nWeighted": 124836,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "45-54",
+      "value": 0.19,
+      "ciLow": 0.15,
+      "ciHigh": 0.24,
+      "nWeighted": 107685,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "55-64",
+      "value": 0.2,
+      "ciLow": 0.15,
+      "ciHigh": 0.25,
+      "nWeighted": 77553,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "65-74",
+      "value": 0.28,
+      "ciLow": 0.2,
+      "ciHigh": 0.38,
+      "nWeighted": 42219,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "75+",
+      "value": 0.27,
+      "ciLow": 0.16,
+      "ciHigh": 0.45,
+      "nWeighted": 14912,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "Laki-laki",
+      "value": 0.17,
+      "ciLow": 0.14,
+      "ciHigh": 0.2,
+      "nWeighted": 316156,
+      "isLowSample": false,
+      "group": "Jenis Kelamin"
+    },
+    {
+      "label": "Perempuan",
+      "value": 0.33,
+      "ciLow": 0.29,
+      "ciHigh": 0.37,
+      "nWeighted": 314671,
+      "isLowSample": false,
+      "group": "Jenis Kelamin"
+    },
+    {
+      "label": "Tidak/belum pernah sekolah",
+      "value": 0.38,
+      "ciLow": 0.26,
+      "ciHigh": 0.54,
+      "nWeighted": 27090,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tidak tamat SD/MI",
+      "value": 0.28,
+      "ciLow": 0.2,
+      "ciHigh": 0.38,
+      "nWeighted": 40315,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat SD/MI",
+      "value": 0.27,
+      "ciLow": 0.22,
+      "ciHigh": 0.32,
+      "nWeighted": 163009,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat SLTP/MTs",
+      "value": 0.28,
+      "ciLow": 0.23,
+      "ciHigh": 0.34,
+      "nWeighted": 134648,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat SLTA/MA",
+      "value": 0.22,
+      "ciLow": 0.18,
+      "ciHigh": 0.26,
+      "nWeighted": 205030,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat D1/D2/D3/PT",
+      "value": 0.14,
+      "ciLow": 0.1,
+      "ciHigh": 0.2,
+      "nWeighted": 60735,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tidak bekerja",
+      "value": 0.4,
+      "ciLow": 0.34,
+      "ciHigh": 0.46,
+      "nWeighted": 187265,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Sekolah",
+      "value": 0.41,
+      "ciLow": 0.32,
+      "ciHigh": 0.52,
+      "nWeighted": 58605,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "PNS/TNI/POLRI/BUMN/BUMD",
+      "value": 0.1,
+      "ciLow": 0.06,
+      "ciHigh": 0.18,
+      "nWeighted": 19723,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Pegawai swasta",
+      "value": 0.11,
+      "ciLow": 0.07,
+      "ciHigh": 0.16,
+      "nWeighted": 71965,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Wiraswasta",
+      "value": 0.13,
+      "ciLow": 0.09,
+      "ciHigh": 0.18,
+      "nWeighted": 96764,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Petani/buruh tani",
+      "value": 0.15,
+      "ciLow": 0.12,
+      "ciHigh": 0.18,
+      "nWeighted": 102215,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Nelayan",
+      "value": 0.12,
+      "ciLow": 0.05,
+      "ciHigh": 0.26,
+      "nWeighted": 5074,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Buruh/sopir/pembantu ruta",
+      "value": 0.25,
+      "ciLow": 0.17,
+      "ciHigh": 0.37,
+      "nWeighted": 51213,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Lainnya",
+      "value": 0.19,
+      "ciLow": 0.14,
+      "ciHigh": 0.25,
+      "nWeighted": 38002,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Perkotaan",
+      "value": 0.3,
+      "ciLow": 0.26,
+      "ciHigh": 0.34,
+      "nWeighted": 369660,
+      "isLowSample": false,
+      "group": "Tempat Tinggal"
+    },
+    {
+      "label": "Perdesaan",
+      "value": 0.17,
+      "ciLow": 0.15,
+      "ciHigh": 0.2,
+      "nWeighted": 261167,
+      "isLowSample": false,
+      "group": "Tempat Tinggal"
+    },
+    {
+      "label": "Terbawah",
+      "value": 0.32,
+      "ciLow": 0.26,
+      "ciHigh": 0.4,
+      "nWeighted": 92202,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Menengah bawah",
+      "value": 0.25,
+      "ciLow": 0.2,
+      "ciHigh": 0.31,
+      "nWeighted": 115108,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Menengah",
+      "value": 0.22,
+      "ciLow": 0.18,
+      "ciHigh": 0.26,
+      "nWeighted": 133106,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Menengah atas",
+      "value": 0.25,
+      "ciLow": 0.2,
+      "ciHigh": 0.31,
+      "nWeighted": 146053,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Teratas",
+      "value": 0.23,
+      "ciLow": 0.18,
+      "ciHigh": 0.3,
+      "nWeighted": 144310,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    }
+  ],
+  "t5_10": [
+    {
+      "group": "Tempat Tinggal",
+      "label": "Perkotaan",
+      "hanyaFasyankes": {
+        "value": 60.9,
+        "ciLow": 55.3,
+        "ciHigh": 66.3
+      },
+      "hanyaNonFasyankes": {
+        "value": 0.7,
+        "ciLow": 0.3,
+        "ciHigh": 1.9
+      },
+      "keduanya": {
+        "value": 32.7,
+        "ciLow": 27.8,
+        "ciHigh": 38.1
+      },
+      "tidakBerobat": {
+        "value": 5.6,
+        "ciLow": 3.6,
+        "ciHigh": 8.5
+      },
+      "nWeighted": 514
+    },
+    {
+      "group": "Tempat Tinggal",
+      "label": "Perdesaan",
+      "hanyaFasyankes": {
+        "value": 60.3,
+        "ciLow": 54.2,
+        "ciHigh": 66.1
+      },
+      "hanyaNonFasyankes": {
+        "value": 0.0,
+        "ciLow": 0.0,
+        "ciHigh": 0.0
+      },
+      "keduanya": {
+        "value": 28.2,
+        "ciLow": 23.1,
+        "ciHigh": 33.9
+      },
+      "tidakBerobat": {
+        "value": 11.5,
+        "ciLow": 8.8,
+        "ciHigh": 14.8
+      },
+      "nWeighted": 330
+    },
+    {
+      "group": "Status Ekonomi",
+      "label": "Terbawah",
+      "hanyaFasyankes": {
+        "value": 57.6,
+        "ciLow": 50.1,
+        "ciHigh": 64.7
+      },
+      "hanyaNonFasyankes": {
+        "value": 0.5,
+        "ciLow": 0.1,
+        "ciHigh": 3.2
+      },
+      "keduanya": {
+        "value": 33.2,
+        "ciLow": 26.8,
+        "ciHigh": 40.3
+      },
+      "tidakBerobat": {
+        "value": 8.8,
+        "ciLow": 5.5,
+        "ciHigh": 13.7
+      },
+      "nWeighted": 265
+    },
+    {
+      "group": "Status Ekonomi",
+      "label": "Menengah bawah",
+      "hanyaFasyankes": {
+        "value": 59.9,
+        "ciLow": 52.6,
+        "ciHigh": 66.7
+      },
+      "hanyaNonFasyankes": {
+        "value": 1.0,
+        "ciLow": 0.3,
+        "ciHigh": 3.3
+      },
+      "keduanya": {
+        "value": 26.5,
+        "ciLow": 20.6,
+        "ciHigh": 33.5
+      },
+      "tidakBerobat": {
+        "value": 12.6,
+        "ciLow": 9.2,
+        "ciHigh": 16.9
+      },
+      "nWeighted": 195
+    },
+    {
+      "group": "Status Ekonomi",
+      "label": "Menengah",
+      "hanyaFasyankes": {
+        "value": 62.7,
+        "ciLow": 52.1,
+        "ciHigh": 72.2
+      },
+      "hanyaNonFasyankes": {
+        "value": 0.0,
+        "ciLow": 0.0,
+        "ciHigh": 0.0
+      },
+      "keduanya": {
+        "value": 33.6,
+        "ciLow": 24.6,
+        "ciHigh": 44.1
+      },
+      "tidakBerobat": {
+        "value": 3.7,
+        "ciLow": 1.4,
+        "ciHigh": 9.4
+      },
+      "nWeighted": 175
+    },
+    {
+      "group": "Status Ekonomi",
+      "label": "Menengah atas",
+      "hanyaFasyankes": {
+        "value": 62.7,
+        "ciLow": 52.1,
+        "ciHigh": 72.3
+      },
+      "hanyaNonFasyankes": {
+        "value": 0.5,
+        "ciLow": 0.1,
+        "ciHigh": 3.2
+      },
+      "keduanya": {
+        "value": 33.9,
+        "ciLow": 24.4,
+        "ciHigh": 44.8
+      },
+      "tidakBerobat": {
+        "value": 2.9,
+        "ciLow": 1.6,
+        "ciHigh": 5.3
+      },
+      "nWeighted": 122
+    },
+    {
+      "group": "Status Ekonomi",
+      "label": "Teratas",
+      "hanyaFasyankes": {
+        "value": 65.4,
+        "ciLow": 49.0,
+        "ciHigh": 78.8
+      },
+      "hanyaNonFasyankes": {
+        "value": 0.0,
+        "ciLow": 0.0,
+        "ciHigh": 0.0
+      },
+      "keduanya": {
+        "value": 24.6,
+        "ciLow": 12.7,
+        "ciHigh": 42.2
+      },
+      "tidakBerobat": {
+        "value": 10.0,
+        "ciLow": 5.4,
+        "ciHigh": 17.8
+      },
+      "nWeighted": 87
+    },
+    {
+      "group": "Nasional",
+      "label": "INDONESIA",
+      "hanyaFasyankes": {
+        "value": 60.7,
+        "ciLow": 56.6,
+        "ciHigh": 64.7
+      },
+      "hanyaNonFasyankes": {
+        "value": 0.5,
+        "ciLow": 0.2,
+        "ciHigh": 1.1
+      },
+      "keduanya": {
+        "value": 31.0,
+        "ciLow": 27.3,
+        "ciHigh": 34.0
+      },
+      "tidakBerobat": {
+        "value": 7.9,
+        "ciLow": 6.2,
+        "ciHigh": 10.0
+      },
+      "nWeighted": 844
+    }
+  ],
+  "t5_11": [
+    {
+      "group": "Tempat Tinggal",
+      "label": "Perkotaan",
+      "minumSemua": 63.0,
+      "minumTidakSemua": 6.0,
+      "tidakMinum": 31.0,
+      "nMinum1Bulan": 482,
+      "rutinSemua": 92.1,
+      "nRutin1Bulan": 333
+    },
+    {
+      "group": "Tempat Tinggal",
+      "label": "Perdesaan",
+      "minumSemua": 44.1,
+      "minumTidakSemua": 8.6,
+      "tidakMinum": 47.4,
+      "nMinum1Bulan": 292,
+      "rutinSemua": 83.6,
+      "nRutin1Bulan": 154
+    },
+    {
+      "group": "Status Ekonomi",
+      "label": "Terbawah",
+      "minumSemua": 49.0,
+      "minumTidakSemua": 6.6,
+      "tidakMinum": 44.4,
+      "nMinum1Bulan": 241,
+      "rutinSemua": 85.3,
+      "nRutin1Bulan": 134
+    },
+    {
+      "group": "Status Ekonomi",
+      "label": "Menengah bawah",
+      "minumSemua": 52.1,
+      "minumTidakSemua": 7.6,
+      "tidakMinum": 40.2,
+      "nMinum1Bulan": 168,
+      "rutinSemua": 86.4,
+      "nRutin1Bulan": 101
+    },
+    {
+      "group": "Status Ekonomi",
+      "label": "Menengah",
+      "minumSemua": 54.9,
+      "minumTidakSemua": 5.9,
+      "tidakMinum": 39.3,
+      "nMinum1Bulan": 169,
+      "rutinSemua": 92.6,
+      "nRutin1Bulan": 103
+    },
+    {
+      "group": "Status Ekonomi",
+      "label": "Menengah atas",
+      "minumSemua": 67.2,
+      "minumTidakSemua": 9.1,
+      "tidakMinum": 23.7,
+      "nMinum1Bulan": 118,
+      "rutinSemua": 89.3,
+      "nRutin1Bulan": 90
+    },
+    {
+      "group": "Status Ekonomi",
+      "label": "Teratas",
+      "minumSemua": 70.4,
+      "minumTidakSemua": 5.7,
+      "tidakMinum": 23.9,
+      "nMinum1Bulan": 78,
+      "rutinSemua": 98.6,
+      "nRutin1Bulan": 59
+    },
+    {
+      "group": "Nasional",
+      "label": "INDONESIA",
+      "minumSemua": 55.9,
+      "minumTidakSemua": 7.0,
+      "tidakMinum": 37.2,
+      "nMinum1Bulan": 774,
+      "rutinSemua": 89.4,
+      "nRutin1Bulan": 486
+    }
+  ],
+  "t5_13": [
+    {
+      "label": "Aceh",
+      "value": 27.0,
+      "ciLow": 18.9,
+      "ciHigh": 37.1,
+      "nWeighted": 100,
+      "isLowSample": false
+    },
+    {
+      "label": "Sumatera Utara",
+      "value": 19.9,
+      "ciLow": 9.7,
+      "ciHigh": 36.4,
+      "nWeighted": 417,
+      "isLowSample": false
+    },
+    {
+      "label": "Sumatera Barat",
+      "value": 18.2,
+      "ciLow": 11.6,
+      "ciHigh": 27.2,
+      "nWeighted": 98,
+      "isLowSample": false
+    },
+    {
+      "label": "Riau",
+      "value": 12.6,
+      "ciLow": 6.8,
+      "ciHigh": 22.1,
+      "nWeighted": 92,
+      "isLowSample": false
+    },
+    {
+      "label": "Jambi",
+      "value": 33.5,
+      "ciLow": 18.0,
+      "ciHigh": 53.7,
+      "nWeighted": 21,
+      "isLowSample": true
+    },
+    {
+      "label": "Sumatera Selatan",
+      "value": 20.2,
+      "ciLow": 13.1,
+      "ciHigh": 29.8,
+      "nWeighted": 91,
+      "isLowSample": false
+    },
+    {
+      "label": "Bengkulu",
+      "value": 11.7,
+      "ciLow": 5.6,
+      "ciHigh": 22.8,
+      "nWeighted": 26,
+      "isLowSample": true
+    },
+    {
+      "label": "Lampung",
+      "value": 14.8,
+      "ciLow": 7.0,
+      "ciHigh": 28.6,
+      "nWeighted": 99,
+      "isLowSample": false
+    },
+    {
+      "label": "Kepulauan Bangka Belitung",
+      "value": 14.0,
+      "ciLow": 5.4,
+      "ciHigh": 31.6,
+      "nWeighted": 10,
+      "isLowSample": true
+    },
+    {
+      "label": "Kepulauan Riau",
+      "value": 9.9,
+      "ciLow": 6.1,
+      "ciHigh": 15.6,
+      "nWeighted": 24,
+      "isLowSample": true
+    },
+    {
+      "label": "DKI Jakarta",
+      "value": 25.1,
+      "ciLow": 17.8,
+      "ciHigh": 34.3,
+      "nWeighted": 380,
+      "isLowSample": false
+    },
+    {
+      "label": "Jawa Barat",
+      "value": 8.7,
+      "ciLow": 6.9,
+      "ciHigh": 10.9,
+      "nWeighted": 3748,
+      "isLowSample": false
+    },
+    {
+      "label": "Jawa Tengah",
+      "value": 14.1,
+      "ciLow": 10.5,
+      "ciHigh": 18.6,
+      "nWeighted": 897,
+      "isLowSample": false
+    },
+    {
+      "label": "DI Yogyakarta",
+      "value": 12.7,
+      "ciLow": 7.4,
+      "ciHigh": 21.0,
+      "nWeighted": 128,
+      "isLowSample": false
+    },
+    {
+      "label": "Jawa Timur",
+      "value": 14.0,
+      "ciLow": 10.2,
+      "ciHigh": 18.8,
+      "nWeighted": 648,
+      "isLowSample": false
+    },
+    {
+      "label": "Banten",
+      "value": 15.4,
+      "ciLow": 9.5,
+      "ciHigh": 23.9,
+      "nWeighted": 479,
+      "isLowSample": false
+    },
+    {
+      "label": "Bali",
+      "value": 10.4,
+      "ciLow": 5.6,
+      "ciHigh": 18.3,
+      "nWeighted": 16,
+      "isLowSample": true
+    },
+    {
+      "label": "Nusa Tenggara Barat",
+      "value": 7.5,
+      "ciLow": 4.5,
+      "ciHigh": 12.2,
+      "nWeighted": 156,
+      "isLowSample": false
+    },
+    {
+      "label": "Nusa Tenggara Timur",
+      "value": 9.9,
+      "ciLow": 7.1,
+      "ciHigh": 13.6,
+      "nWeighted": 129,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Barat",
+      "value": 12.6,
+      "ciLow": 5.8,
+      "ciHigh": 25.1,
+      "nWeighted": 60,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Tengah",
+      "value": 15.6,
+      "ciLow": 6.7,
+      "ciHigh": 32.3,
+      "nWeighted": 17,
+      "isLowSample": true
+    },
+    {
+      "label": "Kalimantan Selatan",
+      "value": 15.2,
+      "ciLow": 8.2,
+      "ciHigh": 26.3,
+      "nWeighted": 49,
+      "isLowSample": true
+    },
+    {
+      "label": "Kalimantan Timur",
+      "value": 9.0,
+      "ciLow": 5.4,
+      "ciHigh": 14.6,
+      "nWeighted": 192,
+      "isLowSample": false
+    },
+    {
+      "label": "Kalimantan Utara",
+      "value": 14.1,
+      "ciLow": 3.0,
+      "ciHigh": 46.4,
+      "nWeighted": 8,
+      "isLowSample": true
+    },
+    {
+      "label": "Sulawesi Utara",
+      "value": 11.1,
+      "ciLow": 7.0,
+      "ciHigh": 17.3,
+      "nWeighted": 83,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Tengah",
+      "value": 16.1,
+      "ciLow": 11.4,
+      "ciHigh": 22.3,
+      "nWeighted": 102,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Selatan",
+      "value": 13.0,
+      "ciLow": 9.3,
+      "ciHigh": 17.7,
+      "nWeighted": 363,
+      "isLowSample": false
+    },
+    {
+      "label": "Sulawesi Tenggara",
+      "value": 17.0,
+      "ciLow": 11.2,
+      "ciHigh": 25.1,
+      "nWeighted": 47,
+      "isLowSample": true
+    },
+    {
+      "label": "Gorontalo",
+      "value": 25.1,
+      "ciLow": 14.5,
+      "ciHigh": 39.9,
+      "nWeighted": 29,
+      "isLowSample": true
+    },
+    {
+      "label": "Sulawesi Barat",
+      "value": 34.0,
+      "ciLow": 17.7,
+      "ciHigh": 55.2,
+      "nWeighted": 20,
+      "isLowSample": true
+    },
+    {
+      "label": "Maluku",
+      "value": 6.1,
+      "ciLow": 2.5,
+      "ciHigh": 14.4,
+      "nWeighted": 29,
+      "isLowSample": true
+    },
+    {
+      "label": "Maluku Utara",
+      "value": 11.2,
+      "ciLow": 5.7,
+      "ciHigh": 20.9,
+      "nWeighted": 19,
+      "isLowSample": true
+    },
+    {
+      "label": "Papua Barat",
+      "value": 18.2,
+      "ciLow": 11.4,
+      "ciHigh": 27.9,
+      "nWeighted": 8,
+      "isLowSample": true
+    },
+    {
+      "label": "Papua Barat Daya",
+      "value": 12.2,
+      "ciLow": 4.3,
+      "ciHigh": 29.9,
+      "nWeighted": 15,
+      "isLowSample": true
+    },
+    {
+      "label": "Papua",
+      "value": 3.3,
+      "ciLow": 1.2,
+      "ciHigh": 8.7,
+      "nWeighted": 12,
+      "isLowSample": true
+    },
+    {
+      "label": "Papua Selatan",
+      "value": 7.3,
+      "ciLow": 0.9,
+      "ciHigh": 39.1,
+      "nWeighted": 5,
+      "isLowSample": true
+    },
+    {
+      "label": "Papua Tengah",
+      "value": 34.4,
+      "ciLow": 24.5,
+      "ciHigh": 45.8,
+      "nWeighted": 34,
+      "isLowSample": true
+    },
+    {
+      "label": "Papua Pegunungan",
+      "value": 47.9,
+      "ciLow": 16.4,
+      "ciHigh": 81.3,
+      "nWeighted": 29,
+      "isLowSample": true
+    },
+    {
+      "label": "INDONESIA",
+      "value": 12.7,
+      "ciLow": 11.3,
+      "ciHigh": 14.2,
+      "nWeighted": 8680,
+      "isLowSample": false
+    }
+  ],
+  "t5_14": [
+    {
+      "label": "15-24",
+      "value": 10.4,
+      "ciLow": 7.7,
+      "ciHigh": 14.0,
+      "nWeighted": 2572,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "25-34",
+      "value": 11.7,
+      "ciLow": 9.0,
+      "ciHigh": 15.0,
+      "nWeighted": 1724,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "35-44",
+      "value": 13.8,
+      "ciLow": 10.9,
+      "ciHigh": 17.2,
+      "nWeighted": 1240,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "45-54",
+      "value": 12.3,
+      "ciLow": 9.5,
+      "ciHigh": 15.7,
+      "nWeighted": 1226,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "55-64",
+      "value": 17.7,
+      "ciLow": 13.9,
+      "ciHigh": 22.2,
+      "nWeighted": 962,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "65-74",
+      "value": 15.4,
+      "ciLow": 11.2,
+      "ciHigh": 20.7,
+      "nWeighted": 676,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "75+",
+      "value": 14.3,
+      "ciLow": 8.8,
+      "ciHigh": 22.3,
+      "nWeighted": 281,
+      "isLowSample": false,
+      "group": "Kelompok Umur"
+    },
+    {
+      "label": "Laki-laki",
+      "value": 12.5,
+      "ciLow": 10.6,
+      "ciHigh": 14.6,
+      "nWeighted": 3161,
+      "isLowSample": false,
+      "group": "Jenis Kelamin"
+    },
+    {
+      "label": "Perempuan",
+      "value": 12.9,
+      "ciLow": 11.1,
+      "ciHigh": 14.9,
+      "nWeighted": 5519,
+      "isLowSample": false,
+      "group": "Jenis Kelamin"
+    },
+    {
+      "label": "Tidak/belum pernah sekolah",
+      "value": 18.0,
+      "ciLow": 12.5,
+      "ciHigh": 25.3,
+      "nWeighted": 404,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tidak tamat SD/MI",
+      "value": 12.6,
+      "ciLow": 9.0,
+      "ciHigh": 17.3,
+      "nWeighted": 601,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat SD/MI",
+      "value": 14.7,
+      "ciLow": 11.7,
+      "ciHigh": 18.3,
+      "nWeighted": 2473,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat SLTP/MTs",
+      "value": 10.4,
+      "ciLow": 8.3,
+      "ciHigh": 13.0,
+      "nWeighted": 2024,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat SLTA/MA",
+      "value": 11.4,
+      "ciLow": 9.4,
+      "ciHigh": 13.8,
+      "nWeighted": 2725,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tamat D1/D2/D3/PT",
+      "value": 15.5,
+      "ciLow": 10.3,
+      "ciHigh": 22.7,
+      "nWeighted": 454,
+      "isLowSample": false,
+      "group": "Pendidikan"
+    },
+    {
+      "label": "Tidak bekerja",
+      "value": 14.7,
+      "ciLow": 12.5,
+      "ciHigh": 17.3,
+      "nWeighted": 3805,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Sekolah",
+      "value": 9.3,
+      "ciLow": 6.4,
+      "ciHigh": 13.2,
+      "nWeighted": 1176,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "PNS/TNI/POLRI/BUMN/BUMD",
+      "value": 11.4,
+      "ciLow": 5.9,
+      "ciHigh": 20.8,
+      "nWeighted": 49,
+      "isLowSample": true,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Pegawai swasta",
+      "value": 10.8,
+      "ciLow": 7.0,
+      "ciHigh": 16.3,
+      "nWeighted": 714,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Wiraswasta",
+      "value": 8.6,
+      "ciLow": 6.0,
+      "ciHigh": 12.1,
+      "nWeighted": 955,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Petani/buruh tani",
+      "value": 14.6,
+      "ciLow": 11.0,
+      "ciHigh": 19.1,
+      "nWeighted": 722,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Nelayan",
+      "value": 13.5,
+      "ciLow": 4.2,
+      "ciHigh": 35.4,
+      "nWeighted": 38,
+      "isLowSample": true,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Buruh/sopir/pembantu ruta",
+      "value": 13.4,
+      "ciLow": 9.4,
+      "ciHigh": 18.7,
+      "nWeighted": 816,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Lainnya",
+      "value": 12.6,
+      "ciLow": 7.8,
+      "ciHigh": 19.7,
+      "nWeighted": 404,
+      "isLowSample": false,
+      "group": "Pekerjaan"
+    },
+    {
+      "label": "Perkotaan",
+      "value": 11.7,
+      "ciLow": 10.3,
+      "ciHigh": 13.3,
+      "nWeighted": 6289,
+      "isLowSample": false,
+      "group": "Tempat Tinggal"
+    },
+    {
+      "label": "Perdesaan",
+      "value": 15.3,
+      "ciLow": 12.2,
+      "ciHigh": 19.0,
+      "nWeighted": 2392,
+      "isLowSample": false,
+      "group": "Tempat Tinggal"
+    },
+    {
+      "label": "Terbawah",
+      "value": 12.6,
+      "ciLow": 9.8,
+      "ciHigh": 16.1,
+      "nWeighted": 1479,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Menengah bawah",
+      "value": 15.3,
+      "ciLow": 12.4,
+      "ciHigh": 18.7,
+      "nWeighted": 1542,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Menengah",
+      "value": 12.2,
+      "ciLow": 9.8,
+      "ciHigh": 15.1,
+      "nWeighted": 1784,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Menengah atas",
+      "value": 11.6,
+      "ciLow": 8.4,
+      "ciHigh": 15.8,
+      "nWeighted": 2077,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    },
+    {
+      "label": "Teratas",
+      "value": 12.4,
+      "ciLow": 9.6,
+      "ciHigh": 15.9,
+      "nWeighted": 1798,
+      "isLowSample": false,
+      "group": "Status Ekonomi"
+    }
+  ]
+}
